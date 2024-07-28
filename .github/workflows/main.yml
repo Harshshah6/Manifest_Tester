@@ -28,9 +28,11 @@ on:
       GIT_USERNAME:
         description: 'GIT_USERNAME'
         required: true
+        default: 'Harshshah6'
       GIT_EMAIL:
         description: 'GIT_EMAIL'
         required: true
+        default: 'harshsandeep23@gmail.com'
 
 jobs:
   build:
