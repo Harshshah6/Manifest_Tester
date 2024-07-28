@@ -23,8 +23,8 @@ on:
         type: choice
         description: 'Which would you like to test?'
         options:
-        - ROM_MANIFEST
-        - LOCAL_MANIFEST 
+        - LOCAL_MANIFEST
+        - ROM_MANIFEST 
       GIT_USERNAME:
         description: 'GIT_USERNAME'
         required: true
