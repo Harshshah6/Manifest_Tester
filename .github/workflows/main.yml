@@ -18,7 +18,7 @@ on:
       ROM_MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: 'lineage-20.0'
+        default: 'fourteen'
       CHOICE:
         type: choice
         description: 'Which would you like to test?'
